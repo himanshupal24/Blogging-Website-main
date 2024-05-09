@@ -17,8 +17,6 @@ import Search from './pages/Search';
 
 export default function App() {
   return (
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7070336929107463"
-     crossorigin="anonymous"></script>
     <BrowserRouter>
       <ScrollToTop />
       <Header />
